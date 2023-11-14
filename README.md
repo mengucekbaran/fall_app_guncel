@@ -1,6 +1,6 @@
 # fall_app_guncel
 
-A new Flutter project.
+In this application, coffee, palm and face readings are done with ChatGPT.
 
 ## Getting Started
 
