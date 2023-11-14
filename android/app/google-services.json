@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695899982339",
+    "project_id": "fallapp-b4b00",
+    "storage_bucket": "fallapp-b4b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695899982339:android:4f1dc0fcd1194562455c36",
+        "android_client_info": {
+          "package_name": "com.falciniz.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695899982339-353sune4curo9sb1bst8ng0t2819gkpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvTtEu8uVgU2ONB5HSOkgKeCPi-5A8NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695899982339-353sune4curo9sb1bst8ng0t2819gkpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
